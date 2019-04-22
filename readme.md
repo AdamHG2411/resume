@@ -1,0 +1,1 @@
+I made a JSON resume as an exercise in using NPM. If anyone is interested, I would strongly recommend ignoring this project and instead visiting [my LinkedIn](https://www.linkedin.com/in/adam-h-grider/).

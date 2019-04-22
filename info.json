@@ -1,0 +1,23 @@
+{
+  "name": "Adam Grider",
+  "website": "https://www.ahgdigital.com",
+  "linkedin": "https://www.linkedin.com/in/adam-h-grider/",
+  "github": "https://github.com/AdamHG2411",
+  "email": "adam.h.grider@gmail.com",
+  "proficientTechnologies": [
+    "Git/GitHub",
+    "HTML",
+    "CSS",
+    "Pug",
+    "Sass",
+    "Parcel",
+    "Javascript",
+    "Node",
+    "Express"
+  ],
+  "otherSkills": [
+      "Singing",
+      "Latin",
+      "Baking"
+  ]
+}
